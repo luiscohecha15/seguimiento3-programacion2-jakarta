@@ -25,7 +25,7 @@
     </tr>
     <tr></tr>
     <tr><td>
-        <a href="inicio_login.jsp"><b>Cerrar sesión</b></a>
+        <a href="index.jsp"><b>Cerrar sesión</b></a>
     </td>
     </tr>
 </table>
